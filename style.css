@@ -1,3 +1,9 @@
+h1{
+  text-align: center;
+  
+  
+}
+
 body{
   margin: 0;
   padding: 0;
@@ -51,4 +57,4 @@ body{
 .btn1:hover::before,.btn2:hover::before{
   height: 180%;
 }
-
+ 
