@@ -5,7 +5,7 @@ body {
   min-height: 100vh;
   justify-content: center;
   align-items: center;
-  background-image: url(20367011.jpg);
+  background: url(20367011.jpg);
   margin:0;
   font-family:Helvetica,Sans-serif;
   padding: 0;
